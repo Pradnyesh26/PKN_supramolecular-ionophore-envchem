@@ -1,11 +1,5 @@
-# Pradnyesh Nagrale - MS Chemist
+# Pradnyesh Nagrale - PhD Chemist Student
 Hi there, I am a chemist focused on designing functional molecular systems using organic and supramolecular principles. My work involves developing ionophores and MOFs for environmental and biological applications, including sensing, selective ion recognition, and ion transport.
-
-# Education
-| Degree                  | Institute                                                         | Years           |
-|-------------------------|-------------------------------------------------------------------|-----------------|
-| PhD Chemistry           | Washington University in St. Louis, USA                           | 2026-Present    |
-| BS-MS Chemistry         | Indian Institute of Science Education and Research Bhopal, India  | 2018-2025       |
 
 # Publication
 1. Pradhan, N.P.†; **Nagrale, P.K.†**; Lal, B.; Dhasmana, Y.; Chopra, D.; and Srivastava, A.; Chlorination-Enhanced H+/Cl− Co-Transport by Tyramine-Urea Conjugates. Chemistry–An Asian Journal, 2025, e70451. https://doi.org/10.1002/asia.70451
@@ -30,7 +24,26 @@ Supervisor: Prof. Venkatesh Chelvam
 - Literature review on enantioselective synthesis of indole-based chiral amines 
 - Skills: Literature survey, research analysis, scientific presentation
 
+# Education
+| Degree                  | Institute                                                         | Years           |
+|-------------------------|-------------------------------------------------------------------|-----------------|
+| PhD Chemistry           | Washington University in St. Louis, USA                           | 2026-Present    |
+| BS-MS Chemistry         | Indian Institute of Science Education and Research Bhopal, India  | 2018-2025       |
+
 # Conferences
 - Poster presentation at "In-house Chem. Symposium", IISER Bhopal
 - ChemSci 2024 Symposium, IISER Bhopal
 - IISERB-IITK Chemistry Meet "Frontiers in Chemistry", IISER Bhopal
+
+# Courses & Certificates
+- Programming for Everybody - Python (Coursera)
+- 3D Drug Modeling and Optimization (BITS Pilani)
+
+# Skills
+|                  |                                                         |                                                        
+|-------------------------|-------------------------------------------------------------------|
+| **Analytical Skills:**| −Flash Chromatography −UV-Vis Spectrophotometry −SEM Imaging −NMR titration −FT-IR Spectroscopy −Rotary evaporator −Fluorolog −pH meter −DLS|
+| **Biochemical Skills:** | −Lipid Vesicles Preparation −Lucigenin Assay −U-Tube Assay −HPTS Assay|                         
+| **Data Analysis:**      | −OriginPro −Mest Renova −MS Office|
+| **Technical Skills:**   | −3D Blender −ChemDraw −Python|
+
