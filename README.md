@@ -1,10 +1,13 @@
 # Pradnyesh Nagrale - PhD Chemist Student
 Hi there, I am a chemist focused on designing functional molecular systems using organic and supramolecular principles. My work involves developing ionophores and MOFs for environmental and biological applications, including sensing, selective ion recognition, and ion transport.
 
-# Publication
+# Research Highlight
+
+
+# 🧾 Publication
 1. Pradhan, N.P.†; **Nagrale, P.K.†**; Lal, B.; Dhasmana, Y.; Chopra, D.; and Srivastava, A.; Chlorination-Enhanced H+/Cl− Co-Transport by Tyramine-Urea Conjugates. Chemistry–An Asian Journal, 2025, e70451. https://doi.org/10.1002/asia.70451
 
-# Work Experience
+# 📁 Work Experience
 1. **Transmembrane Ion Transport via Synthetic Ionophores**\
 Master's Project - IISER Bhopal (1.2 years) \
 Supervisor: Prof. Aasheesh Srivastava 
@@ -35,11 +38,11 @@ Supervisor: Prof. Venkatesh Chelvam
 - ChemSci 2024 Symposium, IISER Bhopal
 - IISERB-IITK Chemistry Meet "Frontiers in Chemistry", IISER Bhopal
 
-# Courses & Certificates
+# 🏅 Courses & Certificates
 - Programming for Everybody - Python (Coursera)
 - 3D Drug Modeling and Optimization (BITS Pilani)
 
-# Skills
+# 🧠 Skills
 |                  |                                                         |                                                        
 |-------------------------|-------------------------------------------------------------------|
 | **Analytical Skills:**| −Flash Chromatography −UV-Vis Spectrophotometry −SEM Imaging −NMR titration −FT-IR Spectroscopy −Rotary evaporator −Fluorolog −pH meter −DLS|
@@ -47,3 +50,7 @@ Supervisor: Prof. Venkatesh Chelvam
 | **Data Analysis:**      | −OriginPro −Mest Renova −MS Office|
 | **Technical Skills:**   | −3D Blender −ChemDraw −Python|
 
+# Let's Connect!
+- 📧 Email: pknagrale20@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/pradnyesh-nagrale-5a675523b  
+- Portfolio Website:  
