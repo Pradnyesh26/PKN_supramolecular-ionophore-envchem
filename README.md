@@ -25,9 +25,12 @@ Supervisor: Dr. Sandipan Halder
 - Techniques: Peptide coupling, IR, ¹H NMR, TLC, column chromatography
 
 3. **C-C and C-O Bond Formation Methodologies**\
-Research Project – IIT Indore (3 months)\
+Research Project – IIT Indore (3 months) \
 Supervisor: Prof. Venkatesh Chelvam
 - Literature review on enantioselective synthesis of indole-based chiral amines 
 - Skills: Literature survey, research analysis, scientific presentation
 
-#
+# Conferences
+- Poster presentation at "In-house Chem. Symposium", IISER Bhopal
+- ChemSci 2024 Symposium, IISER Bhopal
+- IISERB-IITK Chemistry Meet "Frontiers in Chemistry", IISER Bhopal
